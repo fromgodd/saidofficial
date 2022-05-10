@@ -1,16 +1,18 @@
-### Hi there 👋
+### Konichiwassup👋
 
-<!--
-**saidofficial/saidofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, my name is Said
+#### Enthusiast, rustacean and real fan of art
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![said's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidofficial&show_icons=true&theme=radical)
+
+Currently I am working a lot of projects. Subscribe and I'll glad.
+Skills: Rust, C, C++, Python, Typescript, Webassembly, R.
+
+- 🔭 I’m currently working on my own programming language with compiler. 
+- 🌱 I’m currently learning Yew, Serde and Diesel Rs. 
+
+blog 👉 @fromgoddblog 🏴‍☠️ シリコンバレー海賊
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saidofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/just_said228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCn90Pi4_47BdLqtn5pc6FaA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/fromgodmusician)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rust.svg' alt='rust' height='40'>](wassup)  
+
