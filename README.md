@@ -6,8 +6,17 @@
 
 ![said's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidofficial&show_icons=true&theme=radical)
 
-Currently I am working a lot of projects. Subscribe and I'll glad.
-Skills: Rust, C, C++, Python, Typescript, Webassembly, R.
+Currently I am working on ReiLinux Team. Subscribe and I will glad.
+## ReiLinux - https://github.com/reilinux
+### My current stack:
+ #### Programming languages:
+ - Main: Rust (Rustc LLVM), Python, C (clang, MSVC)
+ - Web part: Typescript (Deno Runtime), Bun JS (Soon!)
+ 
+ #### Also check out perfect bomb stack powered by UwUssimo's soul - CXSMXS
+ - Link > https://www.uwussi.moe/stack/cxsmxs
+
+ 
 
 - 🔭 I’m currently working on my own programming language with compiler. 
 - 🌱 I’m currently learning Yew, Serde and Diesel Rs. 
