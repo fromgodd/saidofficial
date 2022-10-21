@@ -17,9 +17,9 @@ Currently I am working on ReiLinux Team. Subscribe and I will glad.
  - Link > https://www.uwussi.moe/stack/cxsmxs
 
  
-
-- 🔭 I’m currently working on my own programming language with compiler. 
-- 🌱 I’m currently learning Yew, Serde and Diesel Rs. 
+### Projects that I should finish:
+- 🔭 Xoopl - my own programming language with compiler written in Rust. 
+- 🌱 Currently learning Yew, Diesel and Serde to create my own messenger. 
 
 blog 👉 @fromgoddblog 🏴‍☠️ シリコンバレー海賊
 
