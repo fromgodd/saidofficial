@@ -39,8 +39,6 @@
 
 
 
-![Sponsors](https://img.shields.io/github/sponsors/saidofficial?style=plastic)
-
 
 ## 🚀 About Me
 FOSS evangelist, with experience at system programming. Practising german language. Currently studying C1 level.
