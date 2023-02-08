@@ -1,7 +1,8 @@
 <!---->
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/97128346/217540205-031f6be0-aedd-4496-a43a-6b03157b8ac5.png" width="500" height="300"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/97128346/217544506-b54eb481-f744-4ea5-981d-0a21bd7f843b.png" width="700" height="500"></p>
+
 # Said (Fromgodd)
 
 
@@ -24,16 +25,17 @@
 
 
 ### What operating system I use btw :)
-- Development - Arch Linux x64, Linux-zen 6.10 Kernel, i3WM Config
-- Main system, web-development - Windows 10 LTSC 21H2
+- Development - Debian 12 (Testing Branch) + Linux 6.0 kernel
+- Main system, web-development - Windows 11 Pro 22H2, Endeavouros (KDE) + zen kernel
 - WSL, Sandbox subsystems - Ubuntu 20.04.5 WSL
 
 ### Soft :)
-- Coding : Neovide (Neovim), Code OSS (VSCode)
+- Coding : Visual Studio Code, Helix, e3, Sublime Text 4
+- Main compiler: GNU GCC, MinGW (Linux) + MSVC, LLVM (Windows)
 - Testing: CircleCI
 - IDE: JetBrains Webstorm, PyCharm CE, CLion
 
-
+#Todo: fix lang/add DS stack/tech info
 #### readme is WIP! wait for better version
 
 
@@ -48,5 +50,5 @@ FOSS evangelist, with experience at system programming. Practising german langua
 ### Future ideas
 
 - Release my own Linux distro for enterprise users
-- Work on myself
+- Create some GNU project
 
